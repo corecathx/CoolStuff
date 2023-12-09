@@ -28,6 +28,9 @@
   "gridY": 0,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f79da9b0-ca25-4d57-955a-dfc50a4cfdbd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"49e300f9-545d-4ee9-a248-eb6b368b209b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"22b2b30e-110b-4969-a5f9-c49c9beedb12",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d11cb994-2e53-44bc-93f5-439888e826b3",},
   ],
   "sequence": {
     "resourceType": "GMSequence",
@@ -35,16 +38,19 @@
     "name": "TotallyNotGeometryDash_spr",
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 0.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 4.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"242130d8-b1bc-42e1-af3e-2c530dc41775","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f79da9b0-ca25-4d57-955a-dfc50a4cfdbd","path":"sprites/TotallyNotGeometryDash_spr/TotallyNotGeometryDash_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4f95f601-a36b-4e95-8d29-db5d3b2cc9a7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"49e300f9-545d-4ee9-a248-eb6b368b209b","path":"sprites/TotallyNotGeometryDash_spr/TotallyNotGeometryDash_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"57bb5f95-0e7a-4700-b8df-96c57d99bb34","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"22b2b30e-110b-4969-a5f9-c49c9beedb12","path":"sprites/TotallyNotGeometryDash_spr/TotallyNotGeometryDash_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"11956a64-8ab2-4daf-bb9a-69e6f5c8d67c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d11cb994-2e53-44bc-93f5-439888e826b3","path":"sprites/TotallyNotGeometryDash_spr/TotallyNotGeometryDash_spr.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"modifiers":[],},
     ],
     "visibleRange": null,

@@ -1,0 +1,1 @@
+curTime = 0
