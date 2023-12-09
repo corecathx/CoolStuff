@@ -3,7 +3,11 @@
   "resourceVersion": "1.6",
   "name": "CoolStuff",
   "resources": [
+    {"id":{"name":"CoolPlayer","path":"objects/CoolPlayer/CoolPlayer.yy",},"order":1,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"TotallyNotGeometryDash_spr","path":"sprites/TotallyNotGeometryDash_spr/TotallyNotGeometryDash_spr.yy",},"order":0,},
+    {"id":{"name":"camObject","path":"objects/camObject/camObject.yy",},"order":2,},
+    {"id":{"name":"wahl","path":"sprites/wahl/wahl.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -22,7 +26,7 @@
     {"name":"Xbox Series XS","path":"options/xboxseriesxs/options_xboxseriesxs.yy",},
     {"name":"wasm","path":"options/wasm/options_wasm.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "isEcma": false,
   "configs": {
     "name": "Default",
